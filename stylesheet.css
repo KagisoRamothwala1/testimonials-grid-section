@@ -1,0 +1,135 @@
+html, body{
+    height: 100%;
+}
+
+.ContentCtn{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Card1{
+    height: 259px;
+  width: 486px;
+  border-radius: 10px;
+  background-color: hsl(263, 55%, 52%);
+  color: white;
+}
+.Daniel-Clifford-ctn{
+    border-radius: 40px;
+  height: 33px;
+  border-style: groove;
+  border-color: hsl(264, 82%, 80%);
+}
+.Card1Name{
+
+}
+
+.Card1Text{
+
+}
+
+.Card1paragraph{
+
+}
+
+.Card2{
+
+}
+
+.Jonathan-Walters-ctn{
+     border-radius: 40px;
+  height: 33px;
+  border-style: groove;
+  border-color: hsl(264, 82%, 80%);
+}
+
+.Card2Name{
+
+}
+
+.Card2Text{
+
+}
+
+
+.Card2paragraph{
+
+}
+
+
+.Card3{
+
+}
+
+.Jeanette-Harmon-ctn{
+     border-radius: 40px;
+  height: 33px;
+  border-style: groove;
+  border-color: hsl(264, 82%, 80%);
+}
+
+.Card3Name{
+
+}
+
+
+.Card3Text{
+
+}
+
+.Card3paragraph{
+
+}
+
+
+.Card4{
+
+}
+
+.Patrick-Abrams-ctn{
+     border-radius: 40px;
+  height: 33px;
+  border-style: groove;
+  border-color: hsl(264, 82%, 80%);
+}
+
+.Card4Name{
+
+}
+
+.Card4Text{
+
+}
+
+.Card4paragraph{
+
+}
+
+.Card5{
+
+}
+
+.Kira-Whittle-ctn{
+     border-radius: 40px;
+  height: 33px;
+  border-style: groove;
+  border-color: hsl(264, 82%, 80%);
+}
+
+.Card5Name{
+
+}
+
+
+.Card5Text{
+
+}
+
+.Card5paragraph{
+
+}
+
+.attribution{
+    padding-top: 10px;
+}
