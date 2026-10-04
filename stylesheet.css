@@ -5,6 +5,8 @@ html, body{
 .ContentCtn{
     display: flex;
     flex-direction: column;
+    column-gap: 31px;
+    row-gap: 29px;
 
 }
 
@@ -14,7 +16,9 @@ html, body{
   border-radius: 10px;
   background-color: hsl(263, 55%, 52%);
   color: white;
-}
+   box-shadow: -2px 11px 39px gray;
+  }
+
 .Daniel-Clifford-ctn{
     border-radius: 40px;
   height: 33px;
@@ -39,14 +43,19 @@ html, body{
 }
 
 .Card2{
+  background-color: hsl(224, 10%, 45%);
+  border-radius: 10px;
+  color: white;
+  width: 315px;
+  height: 398px;
+   box-shadow: -2px 11px 39px gray;
 
 }
 
 .Jonathan-Walters-ctn{
      border-radius: 40px;
   height: 33px;
-  border-style: groove;
-  border-color: hsl(264, 82%, 80%);
+  border-style: unset;
 }
 
 .Card2Name{
@@ -64,14 +73,16 @@ html, body{
 
 
 .Card3{
-
+  height: 256px;
+  width: 246px;
+  box-shadow: -2px 11px 39px gray;
+  border-radius: 10px;
 }
 
 .Jeanette-Harmon-ctn{
      border-radius: 40px;
   height: 33px;
-  border-style: groove;
-  border-color: hsl(264, 82%, 80%);
+  border-style: unset;
 }
 
 .Card3Name{
@@ -89,7 +100,12 @@ html, body{
 
 
 .Card4{
-
+    background-color: hsl(219, 29%, 14%);
+  color: white;
+  box-shadow: -2px 11px 39px gray;
+  border-radius: 10px;
+  width: 749px;
+  height: 257px;
 }
 
 .Patrick-Abrams-ctn{
@@ -112,14 +128,18 @@ html, body{
 }
 
 .Card5{
-
+width: 252px;
+  height: 810px;
+  color: hsl(217, 19%, 35%);
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: -2px 11px 39px;
 }
 
 .Kira-Whittle-ctn{
-     border-radius: 40px;
+    border-radius: 40px;
   height: 33px;
-  border-style: groove;
-  border-color: hsl(264, 82%, 80%);
+  border-style: unset;
 }
 
 .Card5Name{
@@ -137,4 +157,10 @@ html, body{
 
 .attribution{
     padding-top: 10px;
+}
+
+.image-name-occupation-ctn{
+  display: flex;
+  flex-direction: inherit;
+  column-gap: 14px;
 }
